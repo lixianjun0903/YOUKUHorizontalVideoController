@@ -1,2 +1,0 @@
-# YOUKUHorizontalVideoController
-YOUKUHorizontalVideoController
